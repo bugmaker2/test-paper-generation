@@ -2,7 +2,6 @@
 
 > Author：Baiyuan Qiu(Bugmaker)
 
-
 ## 运行环境
 
 安装GUI库pyqt
@@ -36,6 +35,8 @@ python '.\Test paper generation.py'
 
 
 点击```选择题库```可以切换线上和线下题库，由于时间原因，线上题库功能暂时没有完成
+
+![测试图片](test.png)
 
 ### 组卷
 
