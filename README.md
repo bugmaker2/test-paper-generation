@@ -1,8 +1,6 @@
 # 自动组卷评卷系统-Python课设
 
 > Author：Baiyuan Qiu(Bugmaker)
->
-> 学号：2018011217014
 
 - [自动组卷评卷系统-Python课设](#---------python--)
   * [运行环境](#----)
@@ -88,8 +86,6 @@ python '.\Test paper generation.py'
 ## 联系方式
 
 QQ：1061688677
-
-学号：2018011217014
 
 个人网站：https://bugmaker.netlify.app/
 
